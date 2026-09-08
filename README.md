@@ -232,3 +232,6 @@ This repository serves as the official landing page for Totally Tiny Arcade. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Totally Tiny Arcade today!**
+
+---
+**Last updated:** 2026-09-08 14:15:38 UTC
