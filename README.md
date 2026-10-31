@@ -234,4 +234,4 @@ This repository serves as the official landing page for Totally Tiny Arcade. The
 **Get the most recent version of Totally Tiny Arcade today!**
 
 ---
-**Last updated:** 2026-10-30 20:33:28 UTC
+**Last updated:** 2026-10-31 00:33:45 UTC
